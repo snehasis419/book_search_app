@@ -1,2 +1,0 @@
-RewriteEngine on
-RewriteRule ^(.*ghissu/book)/([0-9a-zA-Z]+)$ $1/search.php?isbn=$2
